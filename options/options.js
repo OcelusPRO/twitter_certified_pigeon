@@ -48,7 +48,7 @@ function restoreOptions() {
       textEnabled: true,
       removeBlueVerification: false,
       textOptions: {
-        verifiedLabel: "Verifier",
+        verifiedLabel: "Vérifier",
         twitterBlueLabel: "Pigeon",
         enableBorder: true,
       },

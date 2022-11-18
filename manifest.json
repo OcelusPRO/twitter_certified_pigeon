@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Twitter certified pigeon",
     "version": "1.3",
-    "description": "Grâçe a cette extention vous ferez plus facilement la différence entre les utilisateur vérifier de twitter et les pigeons (ou arnaqueurs aussi)",
+    "description": "Grâçe a cette extention vous ferez plus facilement la différence entre les utilisateur vérifier de twitter et les pigeons",
     "icons": {
         "16": "./assets/16.png",
         "32": "./assets/32.png",
