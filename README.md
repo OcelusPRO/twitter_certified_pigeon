@@ -1,28 +1,19 @@
-﻿# eight-dollars
+﻿# Twitter certified pigeon
 
-eight-dollars can help you tell the difference between actual verified accounts and twitter blue users. Just install the extension and see the difference.
-
-Made by [Will Seagar](https://twitter.com/willseagar) and [Walter Lim](https://twitter.com/iWaltzAround). Found this useful? [Buy us a $8 coffee here](https://www.buymeacoffee.com/eightdollars).
-
-![Some tweets](./assets/example.png)
+Grâçe a cette extention vous ferez plus facilement la différence entre les utilisateur vérifier de twitter et les pigeons (ou arnaqueurs aussi)
 
 
-## Installation Instructions
+![Some tweets](https://i.imgur.com/jdRqojK.png)
+![Some tweets](https://i.imgur.com/tLGG3Eo.png)
 
-### How to install on Chrome/Brave
 
-[Download it on the Chrome Web Store](https://chrome.google.com/webstore/detail/eight-dollars/fjbponfbognnefnmbffcfllkibbbobki)
+## Instructions d'installation
 
-### How to install on Firefox
+### Chrome (et autres navigateurs chromium)
 
-[Download it on the Firefox Browser Extensions page](https://addons.mozilla.org/en-US/firefox/addon/eightdollars/) 
+1. Télécharger le contenu de ce repos sur votre PC
+2. Rendez vous sur la page listant vos extentions [chrome://extensions/](chrome://extensions/) sur chrome
 
-### How to install on Edge
 
-1. [Vist the Chrome Web Store page](https://chrome.google.com/webstore/detail/eight-dollars/fjbponfbognnefnmbffcfllkibbbobki)
-2. Click the banner at the top of the page that says "Enable extensions from other stores"
-3. Click "Add to chrome"
-
-### How to install on Safari
-
-Coming soon
+### Credit
+Extention original crée par [Will Seagar](https://twitter.com/willseagar) et [Walter Lim](https://twitter.com/iWaltzAround). depuis [cette page github](https://github.com/wseagar/eight-dollars)
