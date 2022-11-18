@@ -3,7 +3,7 @@ const defaultConfig = {
   textEnabled: true,
   removeBlueVerification: false,
   textOptions: {
-    verifiedLabel: "Verified",
+    verifiedLabel: "Verifier",
     twitterBlueLabel: "Pigeon",
     enableBorder: true,
   },
