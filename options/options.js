@@ -49,7 +49,7 @@ function restoreOptions() {
       removeBlueVerification: false,
       textOptions: {
         verifiedLabel: "Verified",
-        twitterBlueLabel: "Paid",
+        twitterBlueLabel: "Pigeon",
         enableBorder: true,
       },
     },
